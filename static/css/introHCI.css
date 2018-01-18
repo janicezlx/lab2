@@ -4,14 +4,7 @@
 }
 
 /* applies to any <p> descendants of an element of class "example-class-selector" */
-.project22{
-	/* Colors are in hexadecimal: http://www.colorpicker.com/ */
-     margin-left: 20px;
-    background-color: #deebf7;
-    padding: 20px;
-    width: 560px;
-	
-}
+
 
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
